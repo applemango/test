@@ -1,12 +1,7 @@
 r@apple
 <br>$lang
-<br>html / css
-<br>javascript
-<br>c / c++
-<br>c#
-<br>racket
-<br>python
-<br>perl
-<br>java
-<br>clojure
-<br>ruby
+<br>html / css          javascript
+<br>c / c++             c#
+<br>racket              python
+<br>perl                java
+<br>clojure             ruby
