@@ -1,2 +1,2 @@
 # test
-<p>Hello world!</p>
+<p style="color: red">Hello world!</p>
