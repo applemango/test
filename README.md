@@ -1,11 +1,11 @@
 Github:\Users\applemango>lang
 <br>html / css
-javascript
-c / c++
-c#
-racket
-python
-perl
-java
-clojure
-ruby
+<br>javascript
+<br>c / c++
+<br>c#
+<br>racket
+<br>python
+<br>perl
+<br>java
+<br>clojure
+<br>ruby
