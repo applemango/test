@@ -1,4 +1,5 @@
-Github:\Users\applemango>lang
+r@apple
+$lang
 <br>html / css
 <br>javascript
 <br>c / c++
