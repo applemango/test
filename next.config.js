@@ -1,12 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  experimental: {
+  basePath: process.env.GITHUB_ACTIONS && "/test"
+  ,trailingSlash: true
+
+  ,reactStrictMode: true
+  ,swcMinify: true
+  ,experimental: {
     images: {
-      unoptimized: true,
-    },
-  },
+      unoptimized: true
+    }
+  }
 }
 
 module.exports = nextConfig
